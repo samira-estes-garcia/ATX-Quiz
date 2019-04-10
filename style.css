@@ -1,0 +1,21 @@
+#question, #finished {
+    display: none;
+}
+
+#question {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container {
+    border: 1px solid black;
+    margin: 100px 10px;
+}
+
+#answers {
+    display: none;
+}
+
+ul {
+    list-style-type: none;
+}
