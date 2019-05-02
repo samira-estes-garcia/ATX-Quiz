@@ -98,6 +98,7 @@ fieldset {
     border: .5px solid black;
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
+    cursor: pointer;
 }
 
 .answer:hover {
