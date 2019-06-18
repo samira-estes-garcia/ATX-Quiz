@@ -17,11 +17,11 @@ Final score will show up at the end with a corresponding image
 
 **ATX-Quiz Right Answer Page**
 ---
-![Image](https://i.imgur.com/GibES4w.png)
+![Image](https://i.imgur.com/buX7j7f.png)
 
 **ATX-Quiz Wrong Answer Page**
 ---
-![Image](https://i.imgur.com/buX7j7f.png)
+![Image](https://i.imgur.com/GibES4w.png)
 
 **ATX-Quiz Results Page**
 ---
