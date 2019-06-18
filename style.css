@@ -105,6 +105,10 @@ fieldset {
     background-color: skyblue;
 }
 
+input[type="radio"] {
+    margin-right: 7px;
+  }
+
 .submit {
     width: 100px;
     cursor: pointer;

@@ -11,7 +11,7 @@ const STORE = [
         question: "Which bridge can you visit to see the bats?",
         answers: ["Lamar Bridge", "Congress Ave. Bridge", "360 Bridge", "Pennybacker Bridge"],
         correctAnswer: 1,
-        icon: "https://photos.smugmug.com/Low-Resolution/Congress-Avenue-Bridge-Bats/i-vqVZXJV/5/56d40a35/L/MDT_130825_US3_2174-Edit-Edit-L.jpg",
+        icon: "https://cdn.vox-cdn.com/thumbor/KtNWMcnXgwR--CkMhk8-6Pp8VFI=/0x0:3732x2488/1200x800/filters:focal(1568x946:2164x1542)/cdn.vox-cdn.com/uploads/chorus_image/image/60857623/shutterstock_84051646.0.jpg",
         alt: "Image displaying the Congress Ave. Bridge at sunset with bats flying out from underneath it"
     },
     {
