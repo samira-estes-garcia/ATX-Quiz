@@ -25,9 +25,9 @@ function createQuestion () {
     resultHTML += `<form> <fieldset>`
     for (let i = 0; i < currentQuestion.answers.length; i++) 
     {
-        resultHTML += `<div class="answer">
+        resultHTML += `<label class="answer">
         <input type="radio" name="answer" value="${i}" required/> ${currentQuestion.answers[i]} 
-        </div>`
+        </label>`
     }
     resultHTML += `<button type="submit" class="submit">SUBMIT</button>`;
     resultHTML += `</fieldset> </form>`;
