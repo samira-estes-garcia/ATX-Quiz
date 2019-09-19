@@ -1,4 +1,7 @@
 # ATX-Quiz
+
+Git Pages Live Link: https://samira-estes-garcia.github.io/ATX-Quiz/
+
 A simple trivia quiz challenge about Austin, TX. 
 
 Populates HTML from js file, pulls questions from datastore.js
@@ -26,6 +29,4 @@ Final score will show up at the end with a corresponding image
 **ATX-Quiz Results Page**
 ---
 ![Image](https://i.imgur.com/SKEoUlw.png)
-
-Git Pages Live Link: https://samira-estes-garcia.github.io/ATX-Quiz/
 
